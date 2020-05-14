@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/codigoFuncionario.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/xstream-1.4.9.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-1.4.9.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

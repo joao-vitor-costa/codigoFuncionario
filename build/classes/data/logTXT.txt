@@ -1,0 +1,7 @@
+LOG de edição
+Data: 24/05/2017 Hora: 12:31 - PM
+Funcionario: Joao VssgffID: 3
+Bonus Antigo: AssiduidadeValor: 500.0
+Bonus novo: IdadeValor: 1300.0
+Fim do LOG
+
