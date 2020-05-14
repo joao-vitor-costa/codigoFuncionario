@@ -1,23 +1,23 @@
-# Projeto de Cadastro de Funcionario
+# Employee Management Project
 
-#### Visão Técnica:
+#### Technical Overview:
 - Java 8.
-- Framework Swing.  
+- Swing framework.
 - SOLID.
 - Design Patterns.
 
-O Swing Application Framework ( JSR 296) é uma especificação Java para uma estrutura de aplicativos simples para aplicativos Swing , com uma interface gráfica com o usuário (GUI) em software de computador . Ele define a infraestrutura comum à maioria dos aplicativos de desktop, facilitando a criação de aplicativos Swing.
+The Swing Application Framework (JSR 296) is a Java specification for a simple application framework for Swing applications, with a graphical user interface (GUI) in computer software. It defines the infrastructure common to most desktop applications, making it easy to create Swing applications.
 
-SOLID é um acrônimo dos cinco primeiros princípios da programação orientada a objetos e design de código identificados por Robert C. Martin (ou Uncle Bob) por volta do ano 2000. O acrônimo SOLID foi introduzido por Michael Feathers, após observar que os cinco princípios poderiam se encaixar nesta palavra.
-- Principio da Responsabilidade Única
-- Princípio Aberto-Fechado
-- Princípio da Substituição de Liskov
--  Princípio da Segregação da Interface
--  Princípio da inversão da dependência
+SOLID is an acronym for the first five principles of object-oriented programming and code design identified by Robert C. Martin (or Uncle Bob) around the year 2000. The acronym SOLID was introduced by Michael Feathers, after noting that the five principles could fit this word.
+- Principle of Single Responsibility
+- Open-Closed Principle
+- Liskov Replacement Principle
+- Principle of Interface Segregation
+- Dependency inversion principle
 
-Design Patterns ou padrões de projetos são soluções generalistas para problemas recorrentes durante o desenvolvimento de um software. Não se trata de um framework ou um código pronto, mas de uma definição de alto nível de como um problema comum pode ser solucionado.
+Design Patterns or design patterns are general solutions to recurring problems during software development. It is not a framework or ready code, but a high-level definition of how a common problem can be solved.
 
-#### Padrões de projetos aplicados:
+#### Design patterns applied:
 - Abstract Factory
 - Adapter
 - DAO
@@ -25,4 +25,4 @@ Design Patterns ou padrões de projetos são soluções generalistas para proble
 - State
 - Strategy
 
-#### Projeto para fins acadêmicos.
+#### Project for academic purposes.
